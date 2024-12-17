@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rental_agency: one
+  model: MyString
+  range: MyString
+  brand: one
+  type: 
+  drive: MyString
+  gearbox: MyString
+  fuel_type: MyString
+  autonomy: 1
+  horsepower: 1
+  torque: 1
+  acceleration: 1
+  seating_capacity: 1
+  trunk: 1
+  frunk: 1
+  price_per_day: 1
+
+two:
+  rental_agency: two
+  model: MyString
+  range: MyString
+  brand: two
+  type: 
+  drive: MyString
+  gearbox: MyString
+  fuel_type: MyString
+  autonomy: 1
+  horsepower: 1
+  torque: 1
+  acceleration: 1
+  seating_capacity: 1
+  trunk: 1
+  frunk: 1
+  price_per_day: 1
