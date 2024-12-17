@@ -5,6 +5,9 @@ class Car < ApplicationRecord
   has_one :rental_agency
   has_one :brand
 
+  has_one_attached :main_picture
+  has_many_attached :pictures
+
   validates :model, :range, :type, :drive, :gearbox, :fuel_type, :autonomy, :horsepower, :torque, :acceleration, :seating_capacity, :trunk, :price_per_day, presence: true
 
   validates :autonomy, :horsepower, :torque, :acceleration, :seating_capacity, :trunk, :price_per_day, numericality: { only_integer: true, greater_than: 0 }
