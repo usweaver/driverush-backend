@@ -65,10 +65,11 @@ ActiveRecord::Schema[7.1].define(version: 2024_12_17_104736) do
     t.string "model"
     t.string "range"
     t.bigint "brand_id", null: false
-    t.string "type"
-    t.string "drive"
+    t.string "car_type"
+    t.string "drivetrain"
     t.string "gearbox"
     t.string "fuel_type"
+    t.string "efficiency"
     t.integer "autonomy"
     t.integer "horsepower"
     t.integer "torque"
@@ -85,6 +86,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_12_17_104736) do
 
   create_table "rental_agencies", force: :cascade do |t|
     t.string "name"
+    t.string "agency_type"
     t.string "address"
     t.integer "zipcode"
     t.string "city"

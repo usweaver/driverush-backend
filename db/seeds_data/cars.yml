@@ -1,0 +1,179 @@
+cars:
+  - model: "RS 3"
+    range: "A3"
+    brand: "Audi"
+    car_type: "hatchback"
+    drivetrain: "awd"
+    gearbox: "automatic"
+    fuel_type: "petrol"
+    efficiency: "f"
+    autonomy: 585
+    horsepower: 400
+    torque: 500
+    acceleration: 3800
+    seating_capacity: 5
+    trunk: 282
+    frunk: nil
+    price_per_day: 149
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734455986/09a97eac32c618295ea1fbd5e2cf0dcf-2000x1500_ufdjrx.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734455991/947836f7542a2a5464d23585c47c86e4-2000x1500_sbjklh.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734455988/6932d5e061e26ba2224e36f3e993eccc-2000x1334_wfznb8.jpg"
+  - model: "Q4 Sportback e-tron"
+    range: "Q4"
+    brand: "Audi"
+    car_type: "crossover"
+    drivetrain: "rwd"
+    gearbox: "automatic"
+    fuel_type: "electric"
+    efficiency: "a"
+    autonomy: 550
+    horsepower: 285
+    torque: 545
+    acceleration: 6700
+    seating_capacity: 5
+    trunk: 535
+    frunk: nil
+    price_per_day: 149
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734513720/644165-2000x1500_nlmnrq.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734513720/351793-2000x1500_ticsgv.jpg"
+  - model: "A1 Sportback"
+    range: "A1"
+    brand: "Audi"
+    car_type: "hatchback"
+    drivetrain: "fwd"
+    gearbox: "manual"
+    fuel_type: "petrol"
+    efficiency: "c"
+    autonomy: 700
+    horsepower: 116
+    torque: 200
+    acceleration: 9700
+    seating_capacity: 5
+    trunk: 335
+    frunk: nil
+    price_per_day: 69
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734517030/fb43af015a467c2add947ae2524956e0-2000x1125_rbaa4c.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734517030/b22b0d8ab12d9b466bc29763a83da493-2000x1125_yenfgr.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734517030/0e186f24da32ebb1dd9a190715eb1962-2000x1125_x8sa4i.jpg"
+  - model: "A5 Avant"
+    range: "A5"
+    brand: "Audi"
+    car_type: "station_wagon"
+    drivetrain: "rwd"
+    gearbox: "automatic"
+    fuel_type: "mild_hybrid_diesel"
+    efficiency: "c"
+    autonomy: 1100
+    horsepower: 204
+    torque: 340
+    acceleration: 7700
+    seating_capacity: 5
+    trunk: 448
+    frunk: nil
+    price_per_day: 199
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734518065/d419c7c6ecb4198988ff4f2cad8a3df3-2000x1331_n8pryl.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734518065/03e4eda0d9df67d7bddaa603ce7b86ee-2000x1331_w0jdnv.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734518065/0b866130b19057976bcddbcaeedc4faa-2000x1334_c0xqyc.jpg"
+  - model: "Duster"
+    range: "Duster"
+    brand: "Dacia"
+    car_type: "suv"
+    drivetrain: "fwd"
+    gearbox: "automatic"
+    fuel_type: "hybrid_petrol"
+    efficiency: "b"
+    autonomy: 950
+    horsepower: 140
+    torque: 148
+    acceleration: 10100
+    seating_capacity: 5
+    trunk: 430
+    frunk: nil
+    price_per_day: 69
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734519057/1_j4ek4w.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734519057/2_szwa0x.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734519056/3_vcihad.jpg"
+  - model: "E-2008"
+    range: "2008"
+    brand: "Peugeot"
+    car_type: "suv"
+    drivetrain: "fwd"
+    gearbox: "automatic"
+    fuel_type: "electric"
+    efficiency: "a"
+    autonomy: 400
+    horsepower: 156
+    torque: 260
+    acceleration: 9100
+    seating_capacity: 5
+    trunk: 434
+    frunk: nil
+    price_per_day: 89
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734528692/2170056-x9sgq847ub-whr_x4ucay.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734528692/2169981-7f0thbodfc-whr_fnz5ox.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734528692/2168175-woya15gbja-whr_anestv.jpg"
+  - model: "5008"
+    range: "5008"
+    brand: "Peugeot"
+    car_type: "suv"
+    drivetrain: "fwd"
+    gearbox: "automatic"
+    fuel_type: "hybrid_petrol"
+    efficiency: "a"
+    autonomy: 1100
+    horsepower: 195
+    torque: 300
+    acceleration: 8300
+    seating_capacity: 7
+    trunk: 259
+    frunk: nil
+    price_per_day: 139
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734599618/2473814-578fkyubfu-whr_qlp5fv.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734599618/2473844-ixv03pqh1o-whr_wrhvuj.jpg"
+  - model: "C3"
+    range: "C3"
+    brand: "Citroën"
+    car_type: "hatchback"
+    drivetrain: "fwd"
+    gearbox: "manual"
+    fuel_type: "petrol"
+    efficiency: "c"
+    autonomy: 750
+    horsepower: 100
+    torque: 205
+    acceleration: 9500
+    seating_capacity: 5
+    trunk: 310
+    frunk: nil
+    price_per_day: 39
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734600793/Citroen-C3-You_p1d32u.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734600793/FEATURES_SAFETY_09_750x642_rzyao9.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734600793/citroen-ec3-intern-1_rmhajb.jpg"
+  - model: "Série 1"
+    range: "Série 1"
+    brand: "BMW"
+    car_type: "hatchback"
+    drivetrain: "awd"
+    gearbox: "automatic"
+    fuel_type: "mild_hybrid_petrol"
+    efficiency: "c"
+    autonomy: 700
+    horsepower: 218
+    torque: 360
+    acceleration: 6300
+    seating_capacity: 5
+    trunk: 300
+    frunk: nil
+    price_per_day: 89
+    main_picture_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734601883/P90550872_lowRes_the-all-new-bmw-1-se_yiecjn.jpg"
+    pictures_url:
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734601883/P90550877_lowRes_the-all-new-bmw-1-se_p63c8w.jpg"
+      - "https://res.cloudinary.com/dxcts3uud/image/upload/v1734601883/P90551945_lowRes_the-all-new-bmw-1-se_pwp6sy.jpg"

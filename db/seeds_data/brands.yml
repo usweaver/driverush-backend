@@ -1,0 +1,21 @@
+brands:
+  - name: "Audi"
+    description: 'Audi est une marque allemande emblématique spécialisée dans la fabrication de voitures premium alliant design raffiné, technologie de pointe et performances dynamiques. Fondée en 1909, la marque aux quatre anneaux est synonyme d''innovation, de qualité et d''élégance. Audi propose une large gamme de véhicules, des citadines compactes aux berlines de luxe, en passant par les SUV et les voitures sportives, tout en se positionnant comme un leader dans l''électrification et les solutions de mobilité durable. Avec son slogan "Vorsprung durch Technik" (L''avance par la technologie), Audi incarne l''excellence et l''innovation automobile.'
+    range_level: "premium"
+    logo_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734518582/Audi-Logo_h5gt7i.png"
+  - name: "Dacia"
+    description: "Dacia est une marque automobile roumaine, filiale du groupe Renault, reconnue pour ses véhicules fiables, pratiques et accessibles. Fondée en 1966, Dacia a su s'imposer comme un acteur incontournable du marché grâce à son approche axée sur l'essentiel et le rapport qualité-prix imbattable. Ses modèles phares, tels que la Sandero, le Duster et la Logan, allient simplicité, robustesse et modernité, répondant aux besoins des conducteurs à la recherche de solutions économiques sans compromis sur l'efficacité. Avec une gamme en constante évolution, Dacia incarne la mobilité intelligente pour tous."
+    range_level: "entry_level"
+    logo_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734518582/Dacia-Logo-650x366_lnvbkn.png"
+  - name: "Peugeot"
+    description: "Peugeot est une marque automobile française emblématique, fondée en 1810, reconnue pour son élégance, son innovation et son savoir-faire. En tant que membre du groupe Stellantis, Peugeot propose une gamme variée de véhicules, allant des citadines compactes aux SUV modernes, en passant par des berlines et des véhicules électriques. Son design distinctif, symbolisé par le lion majestueux, reflète force et sophistication. Avec un engagement fort envers la technologie, l'efficacité énergétique et l'expérience de conduite, Peugeot continue d'incarner l'excellence de l'automobile française, en alliant tradition et modernité."
+    range_level: "mid_range"
+    logo_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734520541/Peugeot-Logo-650x366_hzkgrm.png"
+  - name: "Citroën"
+    description: 'Citroën est une marque automobile française fondée en 1919, réputée pour son audace, son innovation et son confort exceptionnel. Membre du groupe Stellantis, Citroën s''est illustrée par des véhicules emblématiques comme la 2CV, la DS et plus récemment la gamme C3 et C5. La marque se distingue par son approche centrée sur le bien-être, en proposant des designs avant-gardistes, des technologies accessibles et des solutions de mobilité adaptées aux besoins contemporains. Fidèle à son slogan "Inspired by You", Citroën incarne une vision moderne de l''automobile, où créativité et convivialité vont de pair.'
+    range_level: "entry_level"
+    logo_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734599842/Citroen-Logo-960x540_xobiel.png"
+  - name: "BMW"
+    description: 'BMW (Bayerische Motoren Werke) est une marque automobile allemande fondée en 1916, mondialement reconnue pour ses véhicules premium alliant luxe, performances et innovation. Avec son slogan emblématique "The Ultimate Driving Machine", BMW incarne la passion de la conduite grâce à des motorisations puissantes, une technologie avancée et un design raffiné. La marque propose une large gamme de modèles, allant des berlines élégantes aux SUV dynamiques, en passant par des voitures sportives et électriques, comme la gamme i. BMW se positionne également comme un leader dans la mobilité durable et les solutions connectées, tout en préservant son ADN centré sur le plaisir de conduire.'
+    range_level: "premium"
+    logo_url: "https://res.cloudinary.com/dxcts3uud/image/upload/v1734600974/BMW-Logo-650x366_siqdoh.png"

@@ -5,10 +5,11 @@ class CreateCars < ActiveRecord::Migration[7.1]
       t.string :model
       t.string :range
       t.references :brand, null: false, foreign_key: true
-      t.string :type
-      t.string :drive
+      t.string :car_type
+      t.string :drivetrain
       t.string :gearbox
       t.string :fuel_type
+      t.string :efficiency
       t.integer :autonomy
       t.integer :horsepower
       t.integer :torque
